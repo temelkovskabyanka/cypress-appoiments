@@ -1,5 +1,5 @@
-import Component from "../appointments/Component";
-import Data from "../appointments/Data";
+import Component from "../components/appointments/Component";
+import Data from "../components/appointments/Data";
 
 describe("Appointments Test", () => {
     beforeEach(() => {
