@@ -1,7 +1,7 @@
 import Component from "../components/appointments/Component";
 import Data from "../components/appointments/Data";
 
-describe("Appointments Test", () => {
+describe("Appointments Test ", () => {
     beforeEach(() => {
         Cypress.on('uncaught:exception', () => {
             return false;
